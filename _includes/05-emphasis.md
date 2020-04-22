@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+But you don't __need__ to understand the `lyrics` to enjoy _these great songs_.  
+`Python` is one of the easiest programing languages to learn.
+```
+print("hello world")
+```
